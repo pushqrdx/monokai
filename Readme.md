@@ -1,8 +1,6 @@
----
+<h2 align="center"><img src="https://github.com/pushqrdx/monokai-oblique-vscode/raw/master/static/slogan.png"></h2>
+<p align="center">Beautiful Monokai inspired theme for <a href="https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode">Visual Studio Code</a> and <a href="https://github.com/pushqrdx/monokai">Visual Studio IDE</a>.</p>
 
-<p align="center">Monokai 📀blique</p>
-
----
 ![](./resources/1.png)
 
 ## **Installation**
